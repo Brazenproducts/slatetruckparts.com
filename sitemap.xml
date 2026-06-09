@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://slatetruckparts.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://slatetruckparts.com/best-slate-truck-parts-and-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://slatetruckparts.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://slatetruckparts.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://slatetruckparts.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-quality-vs-marketing.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-what-buyers-need-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://slatetruckparts.com/best-slatetruckparts-without-overpaying.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-compared-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-market-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://slatetruckparts.com/how-to-pick-slatetruckparts-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-buying-guide-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-reviewed-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://slatetruckparts.com/truth-about-slatetruckparts-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://slatetruckparts.com/slatetruckparts-buyers-handbook-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://slatetruckparts.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
